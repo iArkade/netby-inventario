@@ -399,3 +399,4 @@ C:\Users\isaac\Desktop\Web Development\netby\backend\Productos\obj\Debug\net8.0\
 C:\Users\isaac\Desktop\Web Development\netby\backend\Productos\obj\Debug\net8.0\Productos.pdb
 C:\Users\isaac\Desktop\Web Development\netby\backend\Productos\obj\Debug\net8.0\Productos.genruntimeconfig.cache
 C:\Users\isaac\Desktop\Web Development\netby\backend\Productos\obj\Debug\net8.0\ref\Productos.dll
+C:\Users\isaac\Desktop\Web Development\netby\backend\Productos\obj\Debug\net8.0\Productos.sourcelink.json

@@ -399,3 +399,4 @@ C:\Users\isaac\Desktop\Web Development\netby\backend\Transacciones\obj\Debug\net
 C:\Users\isaac\Desktop\Web Development\netby\backend\Transacciones\obj\Debug\net8.0\Transacciones.pdb
 C:\Users\isaac\Desktop\Web Development\netby\backend\Transacciones\obj\Debug\net8.0\Transacciones.genruntimeconfig.cache
 C:\Users\isaac\Desktop\Web Development\netby\backend\Transacciones\obj\Debug\net8.0\ref\Transacciones.dll
+C:\Users\isaac\Desktop\Web Development\netby\backend\Transacciones\obj\Debug\net8.0\Transacciones.sourcelink.json
